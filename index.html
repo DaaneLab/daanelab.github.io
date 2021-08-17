@@ -4,6 +4,17 @@ title: daane lab
 categories:
  - home
 ---
+
+
+<style>
+    .white_block {
+        max-width: max-content;
+        background-color: rgba(255,255,255, 0.3);";
+        display: inline-block;
+    }
+</style>
+
+
 <style>
 body {
   background-image: url('/images/Antarctica sunset.jpg');
@@ -15,32 +26,33 @@ body {
 <img src="/images/Daane lab logo ice2.svg" width="350px"  >
 
 <div class="bigspacer"></div>
+<div class="white_block">
+  <div class="row">
+  	<div class="col-lg-12">
+  		<div class="head">
+        <p>
+          <b>Evolutionary and developmental genetics @ <a class="off" href="http://www.uh.edu/">University of Houston</a><b>
+  		</div>
+  	</div>
+  </div>
 
-<div class="row">
-	<div class="col-lg-12">
-		<div class="head">
-      <p>
-        <b>Evolutionary and developmental genetics @ <a class="off" href="http://www.uh.edu/">University of Houston</a><b>
-		</div>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-lg-12 reduced-gutter">
-		<div class="pad-left">
-			<ul class="list-inline">
-				{% for page in site.categories.misc %}
-				<li class="footernav list-inline-item">
-					<i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%;"" href="{{ page.url }}">{{ page.title }}</a>
-				</li>
-				{% endfor %}
-        <li class="footernav list-inline-item">
-          <i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%" href="https://www.uh.edu/nsm/biology-biochemistry/">Department of Biology and Biochemistry</a>
-        </li>
-			</ul>
-		</div>
-		<div class="spacer"></div>
-	</div>
+  <div class="row">
+  	<div class="col-lg-12 reduced-gutter">
+  		<div class="pad-left">
+  			<ul class="list-inline">
+  				{% for page in site.categories.misc %}
+  				<li class="footernav list-inline-item">
+  					<i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%;"" href="{{ page.url }}">{{ page.title }}</a>
+  				</li>
+  				{% endfor %}
+          <li class="footernav list-inline-item">
+            <i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%" href="https://www.uh.edu/nsm/biology-biochemistry/">Department of Biology and Biochemistry</a>
+          </li>
+  			</ul>
+  		</div>
+  		<div class="spacer"></div>
+  	</div>
+  </div>
 </div>
 
 <div class="bigspacer"></div>
