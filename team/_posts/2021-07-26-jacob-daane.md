@@ -8,7 +8,7 @@ github:
 alumni: false
 education: PhD, Harvard University
 scholar: tjRkLtYAAAAJ
-image: /images/team/jacob-daane2.jpg
+image: /images/team/jacob-daane-square.jpg
 cv: /pdfs/team/jacob-daane-cv.pdf
 ---
 
