@@ -1,6 +1,6 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: http://bedford.io
+name: Daane Lab Research
+description: Evolutionary and developmental genetics @ UH
+url: http://daanelab.github.io
 
 markdown: kramdown
 permalink: /:categories/:title/
