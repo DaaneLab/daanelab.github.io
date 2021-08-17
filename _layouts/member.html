@@ -8,7 +8,7 @@ layout: default
 	<div class="col-lg-12">
 		<div class="media">
 			{% if member.image %}
-			<img class="pull-left pad-right media-object" width=120 src="{{ member.image }}">
+			<img width=250 class="pull-left pad-right media-object" width=120 src="{{ member.image }}">
 			{% endif %}
 			<div class="media-body titlebox">
 				<div class="bigtitle media-heading">
@@ -27,6 +27,18 @@ layout: default
 
 <div class="row">
 	<div class="col-lg-3">
+		{% if member.education %}
+		<div class="smallhead">
+			Education
+		</div>
+		<div class="pad-left note">
+			<div class="smallspacer"></div>
+			<i class="fa fa-graduation-cap fa-fw"></i>
+			<a>{{ member.education }}</a>
+		</div>
+		<div class="bigspacer"></div>
+		{% endif %}
+
 		{% if member.cv %}
 		<div class="smallhead">
 			CV

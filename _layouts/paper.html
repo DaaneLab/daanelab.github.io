@@ -6,7 +6,7 @@ layout: default
 	<div class="col-lg-12">
 		<div class="media">
 			{% if page.image %}
-			<img class="pull-left pad-right media-object" src="{{ page.image }}">
+			<img width=250 class="pull-left pad-right media-object" src="{{ page.image }}">
 			{% endif %}
 			<div class="media-body titlebox">
 				<div class="title media-heading">
@@ -70,6 +70,28 @@ layout: default
 				<div class="smallspacer"></div>
 				<i class="fa fa-github-alt fa-fw"></i>
 				<a class="off" href="{{ page.github }}">{{ page.github | remove: 'http://github.com/' | remove: 'https://github.com/' | replace: "/", "/<wbr>" | replace: "_", "_<wbr>" }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.dataset %}
+			<div class="smallhead">
+				Dataset
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				<a class="off" href="https://doi.org/{{ page.dataset }}">{{ page.dataset }}</a>
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
+			{% if page.bioproject %}
+			<div class="smallhead">
+				Bioproject
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-external-link fa-fw"></i>
+				<a class="off" href="https://www.ncbi.nlm.nih.gov/bioproject/{{ page.bioproject }}">{{ page.bioproject }}</a>
 			</div>
 			<div class="bigspacer"></div>
 			{% endif %}

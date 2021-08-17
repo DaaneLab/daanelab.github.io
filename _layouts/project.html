@@ -1,11 +1,11 @@
 ---
 layout: default
 categories:
- - projects
+ - research
 ---
 
-{% for test in site.data.projects %}
-	{% if test.title == page.project %}
+{% for test in site.data.research %}
+	{% if test.title == page.research %}
 		{% assign project = test %}
 	{% endif %}
 {% endfor %}

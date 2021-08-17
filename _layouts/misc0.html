@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="row">
+	<div class="col-lg-10">
+		<div class="bigtitle">
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-lg-1">
+	</div>
+	<div class="col-lg-10">
+		<div class="post">
+			{{ content }}
+		</div>
+	</div>
+	<div class="col-lg-1"></div>
+</div>
+
+<div class="row">
+  <div class="col-lg-1"></div>
+	<div class="col-lg-10">
+		<hr style="height:1px;border:none;color:#808088;background-color:#808088;" />
+		<div class="pad-left">
+			<ul class="list-inline">
+				{% for page in site.categories.misc %}
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%;"" href="{{ page.url }}">{{ page.title }}</a>
+				</li>
+				{% endfor %}
+				<li class="footernav list-inline-item">
+					<i class="fa fa-angle-right" style='color:black'></i> <a class="off" style="color:black;font-size:100%" href="https://www.uh.edu/nsm/biology-biochemistry/">Department of Biology and Biochemistry</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>

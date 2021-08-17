@@ -57,6 +57,9 @@
   @include font-size($navbar-brand-font-size);
   line-height: inherit;
   white-space: nowrap;
+  width: 170px;
+  height: 90px;
+
 
   @include hover-focus() {
     text-decoration: none;
@@ -83,6 +86,7 @@
   .dropdown-menu {
     position: static;
     float: none;
+    opacity: 0.4
   }
 }
 

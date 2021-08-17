@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<link rel="icon"
+      type="image/png"
+      href="/images/ice logo only.png">
+
+
 <head>
 	<meta charset="utf-8"/>
 	<title>{{ page.title }}</title>
@@ -11,9 +16,6 @@
 
   <!-- Customized Bootstrap + Font Awesome + Solarized -->
   <link href="/css/style.css" rel="stylesheet" media="screen">
-
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="/images/favicon.png"/>
 
 	<!-- Typekit -->
 	<script>
@@ -33,7 +35,7 @@
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		ga('create', 'UA-26244371-2', 'bedford.io');
+		ga('create', 'UA-26244371-2', 'daanelab.github.io');
 		ga('send', 'pageview');
 
 	</script>
@@ -49,12 +51,12 @@
 <body>
 
 	<div id="header">
-		<nav class="navbar navbar-expand-md navbar-light bg-navbar">
+		<nav class="navbar navbar-expand-md navbar-light bg-navbar bg-transparent">
 			<div class="container">
 				{% if page.categories.first != 'home' %}
 				<a class="navbar-brand" href="/">
-					<img class="logo navbar-brand d-inline-block align-top ml-0 mr-1" src="/images/logo.svg">
-					bedford lab
+					<img class="logo navbar-brand d-inline-block align-middle ml-0 mr-1"  src="/images/Daane lab logo ice.svg" width="700" height="800" >
+
 				</a>
 				{% else %}
 				<a class="navbar-brand" href="/">
@@ -65,13 +67,12 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 					<ul class="navbar-nav nav-pills ml-auto">
-						{% if page.categories.first == 'blog' %}
+						{% if page.categories.first == 'research' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
-						<a class="mx-1" href="/blog/">blog</a>
-						</li>
+						<a class="mx-1" href="/research/">research</a></li>
 						{% if page.categories.first == 'papers' %}
 						<li class="nav-link active">
 						{% else %}
@@ -79,18 +80,19 @@
 						{% endif %}
 						<a class="mx-1" href="/papers/">papers</a>
 						</li>
-						{% if page.categories.first == 'projects' %}
-						<li class="nav-link active">
-						{% else %}
-						<li class="nav-link">
-						{% endif %}
-						<a class="mx-1" href="/projects/">projects</a></li>
 						{% if page.categories.first == 'team' %}
 						<li class="nav-link active">
 						{% else %}
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/team/">team</a></li>
+						{% if page.categories.first == 'news' %}
+						<li class="nav-link active">
+						{% else %}
+						<li class="nav-link">
+						{% endif %}
+						<a class="mx-1" href="/news/">news</a>
+						</li>
 					</ul>
 				</div>
 			</div>
