@@ -1,6 +1,6 @@
 name: Daane Lab Research
 description: Evolutionary and developmental genetics @ UH
-url: http://daanelab.github.io
+url: http://www.daanelab.org
 
 markdown: kramdown
 permalink: /:categories/:title/
@@ -9,7 +9,7 @@ sass:
   sass_dir: css
 
 plugins: ['jekyll-twitter-plugin']
-
+  -jekyll-sitemap
 exclude:
   - "*.branches"
   - "*.class"
