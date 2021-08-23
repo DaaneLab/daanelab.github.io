@@ -44,3 +44,8 @@ exclude:
   - "*.zip"
   - "Gemfile"
   - "Gemfile.lock"
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-0QS1L7TNZ5          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
