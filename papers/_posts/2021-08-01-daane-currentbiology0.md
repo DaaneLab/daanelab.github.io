@@ -7,8 +7,8 @@ year: 2021
 ref: <u>Daane JM</u>, Blum N, Lanni J, Boldt H, Iovine KM, Higdon CW, Johnson SL, Lovejoy NR, Harris MP. 2021. <i>Current Biology</i> in press
 journal: "Current Biology in press"
 pdf: /pdfs/papers/Daane-CurrBio-2021.pdf
-supplement: /pdfs/papers/Daane-CurrBio-2021-supp.pdf
-doi: in press
+supplement: /pdfs/papers/Daane-CurrBio-supp.zip
+doi: 10.1016/j.cub.2021.08.054
 dataset: 10.5281/zenodo.5082979
 bioproject: PRJNA743939
 ---
