@@ -4,10 +4,11 @@ title: Modulation of bioelectric cues in the evolution of flying fishes
 image: /images/papers/currbio2021.png
 authors: Daane JM, Blum N, Lanni J, Boldt H, Iovine KM, Higdon CW, Johnson SL, Lovejoy NR, Harris MP.
 year: 2021
-ref: <u>Daane JM</u>, Blum N, Lanni J, Boldt H, Iovine KM, Higdon CW, Johnson SL, Lovejoy NR, Harris MP. 2021. <i>Current Biology</i> in press
-journal: "Current Biology in press"
+ref: <u>Daane JM</u>, Blum N, Lanni J, Boldt H, Iovine KM, Higdon CW, Johnson SL, Lovejoy NR, Harris MP. 2021. <i>Current Biology</i> 31(22):5052-5061.e8
+journal: "Current Biology 31(22):5052-5061.e8"
 pdf: /pdfs/papers/Daane-CurrBio-2021.pdf
-supplement: /pdfs/papers/Daane-CurrBio-supp.zip
+supplement: /pdfs/papers/Daane-CurrBio-supp.pdf
+perspective: /pdfs/papers/Maderspacher-CurrBio-2021.pdf
 doi: 10.1016/j.cub.2021.08.054
 dataset: 10.5281/zenodo.5082979
 bioproject: PRJNA743939
@@ -20,3 +21,5 @@ Changes to allometry, or the relative proportions of organs and tissues within o
 # Press
 
  [New Scientist](https://www.newscientist.com/article/2271377-altered-bioelectric-genes-give-zebrafish-wings-like-flying-fish/)
+ 
+ [HMS News](https://hms.harvard.edu/news-events/multimedia/making-fish-fly)
