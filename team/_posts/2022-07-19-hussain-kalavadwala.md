@@ -8,7 +8,7 @@ github:
 alumni: false
 education: BS, University of Houston
 scholar:
-image: /images/team/hussain-kalavadwala-square.jpeg
+image: /images/team/hussain-kalavadwala-square2.jpg
 cv:
 ---
 
