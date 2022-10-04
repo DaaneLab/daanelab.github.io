@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Michelle Tran
-position: Undergraduate
+position: Undergraduate researcher
 handle:
 twitter:
 github:
