@@ -5,7 +5,7 @@ position: Undergraduate researcher
 handle:
 twitter:
 github:
-alumni: false
+alumni: true
 education:
 scholar:
 image: /images/team/michelle-tran-square.jpeg
