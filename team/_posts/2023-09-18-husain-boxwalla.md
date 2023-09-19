@@ -13,4 +13,4 @@ website:
 cv:
 ---
 
-Husain is an undergraduate at University of Houston majoring in Biology. Husain is investigating the genetic patterns underlying the re-appearance of the glomulerulus in secondarily-temperate notothenioids following the ancestral loss of the structure.
+Husain is an undergraduate at University of Houston majoring in Biology. Husain is investigating the genetic patterns underlying the re-appearance of the glomulerulus in secondarily-temperate notothenioids following the ancestral loss of this structure.
