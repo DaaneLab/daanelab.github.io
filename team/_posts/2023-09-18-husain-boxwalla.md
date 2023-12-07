@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Husain Boxwalla
+title: Brayan Gutierrez
 position: Undergraduate student
 handle:
 twitter:
@@ -8,9 +8,9 @@ github:
 alumni: false
 education:
 scholar:
-image: /images/team/husain-boxwalla-square.jpg
+image: /images/team/brayan-gutierrez-square.jpeg
 website:
 cv:
 ---
 
-Husain is an undergraduate at University of Houston majoring in Biology. Husain is investigating the genetic patterns underlying the re-appearance of the glomulerulus in secondarily-temperate notothenioids following the ancestral loss of this structure.
+Brayan is an undergraduate at University of Houston majoring in Mathematics with a Data Science Option. Brayan is applying µCT imaging and morphometrics approaches to investigate changes to skeletal density and body shape during fish evolution.
