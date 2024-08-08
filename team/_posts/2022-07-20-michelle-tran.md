@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Michelle Tran
-position: Undergraduate researcher
+position: Undergraduate 
 handle:
 twitter:
 github:
@@ -12,4 +12,4 @@ image: /images/team/michelle-tran-square.jpeg
 cv:
 ---
 
-Michelle is an undergraduate at University of Houston majoring in Biomathematics. Michelle studies adaptation to climate changes past and present through comparative genomics of Antarctic fishes.  
+Michelle was an undergraduate at University of Houston majoring in Biomathematics. Michelle studied adaptation to climate changes past and present through comparative genomics of Antarctic fishes. Following her time in lab, Michelle went on to pursue a Master's degree in Bioinformatics from UT-Health

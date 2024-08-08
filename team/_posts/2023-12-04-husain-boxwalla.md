@@ -1,11 +1,11 @@
 ---
 layout: member
 title: Husain Boxwalla
-position: Undergraduate student
+position: Undergraduate 
 handle:
 twitter:
 github:
-alumni: false
+alumni: true
 education:
 scholar:
 image: /images/team/husain-boxwalla-square.jpg

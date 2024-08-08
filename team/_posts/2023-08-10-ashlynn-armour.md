@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Ashlynn Armour
-position: Undergraduate student
+position: Undergraduate
 handle:
 twitter:
 github:
