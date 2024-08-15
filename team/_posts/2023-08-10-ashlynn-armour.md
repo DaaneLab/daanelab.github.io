@@ -5,7 +5,7 @@ position: Undergraduate
 handle:
 twitter:
 github:
-alumni: false
+alumni: true
 education:
 scholar:
 image: /images/team/ashlynn-armour-square.jpg

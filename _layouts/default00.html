@@ -88,6 +88,13 @@
 						<li class="nav-link">
 						{% endif %}
 						<a class="mx-1" href="/team/">team</a></li>
+            {% if page.categories.first == 'field' %}
+            <li class="nav-link active">
+            {% else %}
+            <li class="nav-link">
+            {% endif %}
+            <a class="mx-1" href="/field/">field</a>
+            </li>
 						{% if page.categories.first == 'news' %}
 						<li class="nav-link active">
 						{% else %}
