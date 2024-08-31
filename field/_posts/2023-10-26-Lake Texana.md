@@ -3,6 +3,8 @@ layout: research
 title: Lake Texana, 2023
 image: /images/field/TX_2023/grasses.jpg
 ---
+<p align="center">
+
 # Lake Texana, 2023
 
 <br/>

@@ -16,5 +16,8 @@ We are looking for pipefish along the Texas Gulf Coast. This is part of a study 
   <img src="/images/field/TX_2024/field_team.jpg" width="80%">
 </p>
 <p align="center">
-  <img src="/images/field/TX_2024/pipefish.jpg" width="80%">
+  <img src="/images/field/TX_2024/pipefish2.jpg" width="80%">
+</p>
+<p align="center">
+  <img src="/images/field/TX_2024/team2.jpg" width="80%">
 </p>

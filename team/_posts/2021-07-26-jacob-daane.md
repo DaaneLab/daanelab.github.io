@@ -9,7 +9,7 @@ alumni: false
 education: PhD, Harvard University
 scholar: tjRkLtYAAAAJ
 image: /images/team/jacob-daane-square.jpg
-cv:
+cv: /Daane CV.pdf
 ---
 
 Assistant professor at the [University of Houston](https://uh.edu/) in the [Department of Biology and Biochemistry](https://uh.edu/nsm/biology-biochemistry/).
