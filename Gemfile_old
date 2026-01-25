@@ -14,7 +14,8 @@ gem 'netrc'
 gem 'jekyll-twitter-plugin'
 
 # java
-gem "webrick", "~> 1.9"
+
+gem "webrick", "~> 1.7"
 
 # sitemap and google analytics
 group :jekyll_plugins do
@@ -23,5 +24,3 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-analytics'
 end
-
-
