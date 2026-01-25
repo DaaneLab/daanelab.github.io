@@ -4,7 +4,7 @@ title: Establishment, conservation, and innovation of dorsal determination mecha
 image: /images/papers/HawkinsBio2025.png
 authors: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, Daane JM, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M
 year: 2025
-ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. <i>bioRxiv</i> doi:10.1101/2025.07.02.662459.
+ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. 2025. <i>bioRxiv</i> doi:10.1101/2025.07.02.662459.
 journal: "bioRxiv doi:10.1101/2025.07.02.662459."
 pdf: /pdfs/papers/Hawkins-Bio-2025.pdf
 doi: 10.1101/2025.07.02.662459

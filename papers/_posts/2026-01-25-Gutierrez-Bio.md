@@ -4,7 +4,7 @@ title: Convergent reduction in skeletal density during benthic to pelagic transi
 image: /images/papers/GutierrezBio2026.png
 authors: Gutierrez BA, Larouche O, Loetzerich S, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, Daane JM
 year: 2026
-ref: <u>Gutierrez BA</u>, <u>Larouche O</u>, <u>Loetzerich S</u>, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, <u>Daane JM</u>. <i>bioRxiv</i> doi:10.64898/2026.01.22.701097.
+ref: <u>Gutierrez BA</u>, <u>Larouche O</u>, <u>Loetzerich S</u>, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, <u>Daane JM</u>. 2025. <i>bioRxiv</i> doi:10.64898/2026.01.22.701097.
 journal: "bioRxiv doi:10.64898/2026.01.22.701097."
 pdf: /pdfs/papers/Gutierrez-Bio-2026.pdf
 doi: 10.1101/2026.01.22.701097
