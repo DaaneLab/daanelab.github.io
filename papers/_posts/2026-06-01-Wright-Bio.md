@@ -4,7 +4,7 @@ title: Convergent latitudinal erosion of circadian systems in a rapidly diversif
 image: /images/papers/WrightBio2025.png
 authors: Wright DB, Zhang Y, Daane JM
 year: 2025
-ref: <u>Wright DB</u> , Zhang Y, <u>Daane JM</u>. 2024. <i>bioRxiv</i> doi:10.1101/2025.05.28.656707.
+ref: <u>Wright DB</u> , Zhang Y, <u>Daane JM</u>. 2026. <i>bioRxiv</i> doi:10.1101/2025.05.28.656707.
 journal: "bioRxiv doi:10.1101/2025.05.28.656707."
 pdf: /pdfs/papers/Wright-Bio-2025.pdf
 doi: 10.1101/2025.05.28.656707

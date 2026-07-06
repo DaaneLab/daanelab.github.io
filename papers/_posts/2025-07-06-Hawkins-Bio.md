@@ -1,13 +1,13 @@
 ---
 layout: paper
-title: Establishment, conservation, and innovation of dorsal determination mechanisms during the evolution of vertebrate paired appendages
+title: The origin and evolution of dorsal determination mechanisms in vertebrate paired appendages
 image: /images/papers/HawkinsBio2025.png
 authors: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, Daane JM, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M
-year: 2025
-ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. 2025. <i>bioRxiv</i> doi:10.1101/2025.07.02.662459.
-journal: "bioRxiv doi:10.1101/2025.07.02.662459."
-pdf: /pdfs/papers/Hawkins-Bio-2025.pdf
-doi: 10.1101/2025.07.02.662459
+year: 2026
+ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. 2026. <i>Current Biology</i> doi:10.1016/j.cub.2026.05.046.
+journal: "Current Biology doi:10.1016/j.cub.2026.05.046."
+pdf: /pdfs/papers/Hawkins-CurrBio-2026.pdf
+doi: 10.1016/j.cub.2026.05.046
 ---
 
-Limb function requires polarized anatomy across the dorsal-ventral (DV) axis, but it is unclear when the capacity for DV differentiation of paired appendages arose in evolution. Here we define ancestral DV patterning programs in the fins of fishes. We show that the orthologue of the limb dorsal determinant, Lmx1b, is required to establish dorsality in zebrafish pectoral fins and is regulated by a conserved LARM cis-regulatory hub. However, lmx1bb expression in median fins is unaffected by removal of the LARM, suggesting its regulation is an evolutionary innovation specific to the paired appendages. Although we find the LARM is highly conserved across gnathostomes, we identify specific alteration of this region in hillstream loaches, fishes which naturally parallel ″double-ventral″ fin phenotypes observed in lmx1bb and LARM mutants. Altogether our findings indicate LARM-mediated dorsal identity is an ancestral feature of paired appendages that provide a prepattern for limb evolution and lineage diversification.
+Limb function requires polarized anatomy across the dorsal-ventral axis, but it is unclear when the capacity for differentiation along this axis in paired appendages arose during vertebrate evolution. Here, we define ancestral dorsoventral patterning programs in the fins of fishes. We show that an ortholog of the limb dorsal determinant, Lmx1b, is required to establish dorsality in zebrafish pectoral fins and is activated by a conserved jawed vertebrate cis-regulatory hub. However, this hub is not essential for lmx1bb expression in median fins, suggesting that this control is an evolutionary innovation specific to the paired appendages. Although we find that the regulatory hub is highly conserved across gnathostomes, we identify a specific alteration of this region in hillstream loaches, fishes that naturally parallel the “double-ventral” fin phenotypes observed in zebrafish lmx1bb regulatory mutants. Altogether, our findings indicate that specific regulation of dorsal identity is an ancestral feature of paired appendage development that provided a prepattern for limb evolution and lineage diversification.
