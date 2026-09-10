@@ -4,9 +4,9 @@ title: Parallel reduction in skeletal density during benthic to pelagic transiti
 image: /images/papers/GutierrezBio2026.png
 authors: Gutierrez BA, Larouche O, Loetzerich S, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, Daane JM
 year: 2026
-ref: <u>Gutierrez BA</u>, <u>Larouche O</u>, <u>Loetzerich S</u>, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, <u>Daane JM</u>. 2026. <i>Integrative Organismal Biology</i> doi:10.64898/2026.01.22.701097.
-journal: "Integrative Organismal Biology, obag026"
-pdf: /pdfs/papers/Gutierrez-Bio-2026.pdf
+ref: <u>Gutierrez BA</u>, <u>Larouche O</u>, <u>Loetzerich S</u>, Gerringer ME, Evans KM, Aguilar A, Kirilchik S, Sandel MW, <u>Daane JM</u>. 2026. <i>Integrative Organismal Biology</i> 8(1):obag026.
+journal: "Integrative Organismal Biology, 8(1):obag026"
+pdf: /pdfs/papers/Gutierrez-IOB-2026.pdf
 doi: 10.1093/iob/obag026
 ---
 

@@ -4,8 +4,8 @@ title: The origin and evolution of dorsal determination mechanisms in vertebrate
 image: /images/papers/HawkinsBio2025.png
 authors: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, Daane JM, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M
 year: 2026
-ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. 2026. <i>Current Biology</i> doi:10.1016/j.cub.2026.05.046.
-journal: "Current Biology doi:10.1016/j.cub.2026.05.046."
+ref: Hawkins MB, Zdral S, Naranjo S, Julia M, Sanchez-Martin M, <u>Daane JM</u>, Cumplido N, Jandzik D, Medeiros DM, McMenamin S, Harris MP, Tena JJ, Ros M. 2026. <i>Current Biology</i> 36(13):3245-3257.e7
+journal: "Current Biology 36(13):3245-3257.e7"
 pdf: /pdfs/papers/Hawkins-CurrBio-2026.pdf
 doi: 10.1016/j.cub.2026.05.046
 ---
