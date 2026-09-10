@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Gene loss under constant cold reveals “natural knockout” loci in Antarctic notothenioid fishes
-image: /images/papers/VinitaBMC2026.png
+image: /images/papers/Lamba2026.png
 authors: Lamba V, Alverson AJ, Daane JM, Zhuang X
 year: 2026
 ref: Lamba V, Alverson AJ, <u>Daane JM</u>, Zhuang X. 2026. <i>BMC Genomics</i>. In Press.
