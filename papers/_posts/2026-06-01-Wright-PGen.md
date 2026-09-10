@@ -4,7 +4,7 @@ title: Convergent latitudinal erosion of circadian systems in a rapidly diversif
 image: /images/papers/Wright2026.png
 authors: Wright DB, Zhang Y, Daane JM
 year: 2026
-ref: <u>Wright DB</u> , Zhang Y, <u>Daane JM</u>. 2026. <i>PLoS Genet</i> 22(8):e1012287.
+ref: <u>Wright DB</u> , Zhang Y, <u>Daane JM</u>. 2026. <i>PLoS Genetics</i> 22(8):e1012287.
 journal: "PLoS Genetics 22(8):e1012287"
 pdf: /pdfs/papers/Wright-PGEN-2026.pdf
 doi: 10.1371/journal.pgen.1012287
